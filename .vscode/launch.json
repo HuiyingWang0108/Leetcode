@@ -1,0 +1,777 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Fib",
+            "request": "launch",
+            "mainClass": "Fib",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxProfitMedium",
+            "request": "launch",
+            "mainClass": "MaxProfitMedium",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch IndexPairs",
+            "request": "launch",
+            "mainClass": "IndexPairs",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch IndexPairs",
+            "request": "launch",
+            "mainClass": "indexPairs.IndexPairs",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch WordDictionary",
+            "request": "launch",
+            "mainClass": "WordDictionary",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch GetAllElements",
+            "request": "launch",
+            "mainClass": "GetAllElements",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch GetIntersectionNodeTwoPionter",
+            "request": "launch",
+            "mainClass": "GetIntersectionNodeTwoPionter",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch BuildTree",
+            "request": "launch",
+            "mainClass": "BuildTree",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch RotateRightList",
+            "request": "launch",
+            "mainClass": "RotateRightList",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Intersect",
+            "request": "launch",
+            "mainClass": "Intersect",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountNodesBs",
+            "request": "launch",
+            "mainClass": "CountNodesBs",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountNodesDfs",
+            "request": "launch",
+            "mainClass": "CountNodesDfs",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinimumSize",
+            "request": "launch",
+            "mainClass": "MinimumSize",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Intersection",
+            "request": "launch",
+            "mainClass": "Intersection",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindMaxRotateNoDescendingArray",
+            "request": "launch",
+            "mainClass": "FindMaxRotateNoDescendingArray",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Find132pattern",
+            "request": "launch",
+            "mainClass": "Find132pattern",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxSubArrayLen",
+            "request": "launch",
+            "mainClass": "MaxSubArrayLen",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinSubArrayLen",
+            "request": "launch",
+            "mainClass": "MinSubArrayLen",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindMinRotateAscendingArrary",
+            "request": "launch",
+            "mainClass": "FindMinRotateAscendingArrary",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindMaxRotateAscendingArrary",
+            "request": "launch",
+            "mainClass": "FindMaxRotateAscendingArrary",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumRootToLeaf",
+            "request": "launch",
+            "mainClass": "SumRootToLeaf",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch AddBinary",
+            "request": "launch",
+            "mainClass": "AddBinary",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch RotateRight",
+            "request": "launch",
+            "mainClass": "RotateRight",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch RotateLeft",
+            "request": "launch",
+            "mainClass": "RotateLeft",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch MySqrt",
+            "request": "launch",
+            "mainClass": "MySqrt",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchRange",
+            "request": "launch",
+            "mainClass": "SearchRange",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Search",
+            "request": "launch",
+            "mainClass": "Search",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Partition",
+            "request": "launch",
+            "mainClass": "Partition",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindLengthOfLCIS",
+            "request": "launch",
+            "mainClass": "FindLengthOfLCIS",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch MajorityElement",
+            "request": "launch",
+            "mainClass": "MajorityElement",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindJudge",
+            "request": "launch",
+            "mainClass": "FindJudge",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumPairsDivisibleBy60",
+            "request": "launch",
+            "mainClass": "NumPairsDivisibleBy60",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindDisappearedNumbers",
+            "request": "launch",
+            "mainClass": "FindDisappearedNumbers",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindPeakElement",
+            "request": "launch",
+            "mainClass": "FindPeakElement",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch SingleNumber",
+            "request": "launch",
+            "mainClass": "SingleNumber",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxCoins",
+            "request": "launch",
+            "mainClass": "MaxCoins",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch PostorderTraversal",
+            "request": "launch",
+            "mainClass": "PostorderTraversal",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch PreorderTraversal",
+            "request": "launch",
+            "mainClass": "PreorderTraversal",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch SmallestRepunitDivByK",
+            "request": "launch",
+            "mainClass": "SmallestRepunitDivByK",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalculatePrefix",
+            "request": "launch",
+            "mainClass": "CalculatePrefix",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindComplement",
+            "request": "launch",
+            "mainClass": "FindComplement",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch BasicCalculate",
+            "request": "launch",
+            "mainClass": "BasicCalculate",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Calculate",
+            "request": "launch",
+            "mainClass": "Calculate",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeIntervals",
+            "request": "launch",
+            "mainClass": "MergeIntervals",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProductExceptSelf",
+            "request": "launch",
+            "mainClass": "ProductExceptSelf",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReorderList2",
+            "request": "launch",
+            "mainClass": "ReorderList2",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReorderList",
+            "request": "launch",
+            "mainClass": "ReorderList",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch IsPowerOfTwo",
+            "request": "launch",
+            "mainClass": "IsPowerOfTwo",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Divide",
+            "request": "launch",
+            "mainClass": "Divide",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch DecodeString",
+            "request": "launch",
+            "mainClass": "DecodeString",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch IsSymmetric",
+            "request": "launch",
+            "mainClass": "IsSymmetric",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch AtMostNGivenDigitSet",
+            "request": "launch",
+            "mainClass": "AtMostNGivenDigitSet",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaximalSquare",
+            "request": "launch",
+            "mainClass": "MaximalSquare",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch NextPermutation",
+            "request": "launch",
+            "mainClass": "NextPermutation",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyPow",
+            "request": "launch",
+            "mainClass": "MyPow",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch MoveZeroes2",
+            "request": "launch",
+            "mainClass": "MoveZeroes2",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch MoveZeroes",
+            "request": "launch",
+            "mainClass": "MoveZeroes",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch InsertionSortList",
+            "request": "launch",
+            "mainClass": "InsertionSortList",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch RangeSumBST",
+            "request": "launch",
+            "mainClass": "RangeSumBST",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumArray",
+            "request": "launch",
+            "mainClass": "NumArray",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rotate2",
+            "request": "launch",
+            "mainClass": "Rotate2",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rotate",
+            "request": "launch",
+            "mainClass": "Rotate",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxPower",
+            "request": "launch",
+            "mainClass": "MaxPower",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch IsPalindrome3",
+            "request": "launch",
+            "mainClass": "IsPalindrome3",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch IsPalindrome2",
+            "request": "launch",
+            "mainClass": "IsPalindrome2",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch IsPalindrome",
+            "request": "launch",
+            "mainClass": "IsPalindrome",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch CanPartition2",
+            "request": "launch",
+            "mainClass": "CanPartition2",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch CanPartition",
+            "request": "launch",
+            "mainClass": "CanPartition",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Jump2",
+            "request": "launch",
+            "mainClass": "Jump2",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Jump",
+            "request": "launch",
+            "mainClass": "Jump",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinDistance",
+            "request": "launch",
+            "mainClass": "MinDistance",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinPathSum",
+            "request": "launch",
+            "mainClass": "MinPathSum",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeKSortedArrays",
+            "request": "launch",
+            "mainClass": "MergeKSortedArrays",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeKLists",
+            "request": "launch",
+            "mainClass": "MergeKLists",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeThreeList",
+            "request": "launch",
+            "mainClass": "mergeThreeList.MergeThreeList",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeThreeList",
+            "request": "launch",
+            "mainClass": "MergeThreeList",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThreeSumClosest",
+            "request": "launch",
+            "mainClass": "ThreeSumClosest",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch PascalTriangle",
+            "request": "launch",
+            "mainClass": "PascalTriangle",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Merge",
+            "request": "launch",
+            "mainClass": "Merge",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AddTwoNumbers",
+            "request": "launch",
+            "mainClass": "AddTwoNumbers",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch DeleteDuplicates",
+            "request": "launch",
+            "mainClass": "DeleteDuplicates",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindMedianSortedArrays",
+            "request": "launch",
+            "mainClass": "FindMedianSortedArrays",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch GetIntersectionNode",
+            "request": "launch",
+            "mainClass": "GetIntersectionNode",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch GetIntersectionNode2",
+            "request": "launch",
+            "mainClass": "GetIntersectionNode2",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch HasCycle",
+            "request": "launch",
+            "mainClass": "HasCycle",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch HasCycle2",
+            "request": "launch",
+            "mainClass": "HasCycle2",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch ListNode",
+            "request": "launch",
+            "mainClass": "ListNode",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch LongestPalindrome",
+            "request": "launch",
+            "mainClass": "LongestPalindrome",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch LongestPalindrome2",
+            "request": "launch",
+            "mainClass": "LongestPalindrome2",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch LongestPalindrome3",
+            "request": "launch",
+            "mainClass": "LongestPalindrome3",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxTwoEvents",
+            "request": "launch",
+            "mainClass": "MaxTwoEvents",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxTwoEvents2",
+            "request": "launch",
+            "mainClass": "MaxTwoEvents2",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeTwoLists",
+            "request": "launch",
+            "mainClass": "MergeTwoLists",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch PlusOne",
+            "request": "launch",
+            "mainClass": "PlusOne",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch PlusOne2",
+            "request": "launch",
+            "mainClass": "PlusOne2",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveDuplicates",
+            "request": "launch",
+            "mainClass": "RemoveDuplicates",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveElement",
+            "request": "launch",
+            "mainClass": "RemoveElement",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveElements",
+            "request": "launch",
+            "mainClass": "RemoveElements",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveNthFromEnd",
+            "request": "launch",
+            "mainClass": "RemoveNthFromEnd",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseList",
+            "request": "launch",
+            "mainClass": "ReverseList",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseList2",
+            "request": "launch",
+            "mainClass": "ReverseList2",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchInsert",
+            "request": "launch",
+            "mainClass": "SearchInsert",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchInsert2",
+            "request": "launch",
+            "mainClass": "SearchInsert2",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch SimplifyPath",
+            "request": "launch",
+            "mainClass": "SimplifyPath",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch SimplifyPath2",
+            "request": "launch",
+            "mainClass": "SimplifyPath2",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeMapTest",
+            "request": "launch",
+            "mainClass": "TreeMapTest",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
+            "name": "Launch ValidParentheses",
+            "request": "launch",
+            "mainClass": "ValidParentheses",
+            "projectName": "leecode_3c1035b"
+        }
+    ]
+}
