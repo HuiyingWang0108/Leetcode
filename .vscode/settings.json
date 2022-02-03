@@ -66,6 +66,7 @@
         "array/PascalTriangle",
         "array/NumArray",
         "array/FindDisappearedNumbers.java",
+        "Fibonacci",
         "DFS/sumRootToLeaf",
         "DFS/preorderTraversal",
         "DFS/postorderTraversal",
@@ -73,7 +74,7 @@
         "DFS/getAllElements",
         "DFS/countNodes",
         "DFS/buildTree",
-        "Fibonacci"
+        "string/findAnagrams"
     ],
     "java.dependency.packagePresentation": "hierarchical"
 }
