@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch NumberOfArithmeticSlices",
+            "request": "launch",
+            "mainClass": "NumberOfArithmeticSlices",
+            "projectName": "leecode_3c1035b"
+        },
+        {
+            "type": "java",
             "name": "Launch FindAnagrams",
             "request": "launch",
             "mainClass": "FindAnagrams",

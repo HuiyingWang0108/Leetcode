@@ -5,6 +5,7 @@
         "string/partition",
         "string/maxPower",
         "string/longestPalindrome",
+        "string/findAnagrams",
         "string/decodeString",
         "string/calculate",
         "stack",
@@ -74,7 +75,7 @@
         "DFS/getAllElements",
         "DFS/countNodes",
         "DFS/buildTree",
-        "string/findAnagrams"
+        "array/numberOfArithmeticSlices"
     ],
     "java.dependency.packagePresentation": "hierarchical"
 }
