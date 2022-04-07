@@ -3,7 +3,8 @@ public class Jump2 {
         Jump2 obj = new Jump2();
         //[5,9,3,2,1,0,2,3,3,1,0,0]
         int[] nums = {5,9,3,2,1,0,2,3,3,1,0,0};
-        obj.jump(nums);
+        int res = obj.jump(nums);
+        System.out.println(res);
 
     }
 

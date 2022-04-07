@@ -1,20 +1,34 @@
-// public class MergeTwoLists{
+public class MergeTwoLists {
+    public static void main(String[] args) {
+        ListNode l1 = new ListNode(1);
+        l1.next = new ListNode(3);
+        l1.next.next = new ListNode(5);
+        ListNode l2 = new ListNode(2);
+        l2.next = new ListNode(4);
+        l2.next.next = new ListNode(6);
+        ListNode res = mergeTwoSortedLists(l1, l2);
+        ListNode curr = res;
+        while(curr != null) {
+            System.out.println(curr.val);
+            curr = curr.next;
+        }
+    }
 
-//     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
+    public static ListNode mergeTwoSortedLists(ListNode l1, ListNode l2) {
         
-//         if(l1 == null){
-//             return l2;
-//         }
-//         if(l2 == null){
-//             return l1;
-//         }
-//         if(l1.val < l2.val){
-//             l1.next = mergeTwoLists(l1.next, l2);
-//             return l1;
-//         }
-//         l2.next = mergeTwoLists(l1, l2.next);
-//         return l2;
-//     } 
+        if(l1 == null){
+            return l2;
+        }
+        if(l2 == null){
+            return l1;
+        }
+        if(l1.val < l2.val) {
+            l1.next = mergeTwoSortedLists(l1.next, l2);
+            return l1;
+        }
+        l2.next = mergeTwoSortedLists(l1, l2.next);
+        return l2;
+    } 
 
 
-// }
+}

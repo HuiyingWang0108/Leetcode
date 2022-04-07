@@ -6,6 +6,118 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MaximumUnits",
+            "request": "launch",
+            "mainClass": "MaximumUnits",
+            "projectName": "Leetcode_1ee7940f"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinimalTotalContainerSizeII",
+            "request": "launch",
+            "mainClass": "MinimalTotalContainerSizeII",
+            "projectName": "Leetcode_1ee7940f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClimbStairs",
+            "request": "launch",
+            "mainClass": "ClimbStairs",
+            "projectName": "Leetcode_1ee7940f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Jump2",
+            "request": "launch",
+            "mainClass": "Jump2",
+            "projectName": "Leetcode_1ee7940f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Jump",
+            "request": "launch",
+            "mainClass": "Jump",
+            "projectName": "Leetcode_1ee7940f"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinimalTotalContainerSize",
+            "request": "launch",
+            "mainClass": "MinimalTotalContainerSize",
+            "projectName": "Leetcode_1ee7940f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ItemsInContainers",
+            "request": "launch",
+            "mainClass": "ItemsInContainers",
+            "projectName": "Leetcode_1ee7940f"
+        },
+        {
+            "type": "java",
+            "name": "Launch SingleNonDuplicate",
+            "request": "launch",
+            "mainClass": "SingleNonDuplicate",
+            "projectName": "Leetcode_1ee7940f"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeTwoLists",
+            "request": "launch",
+            "mainClass": "MergeTwoLists",
+            "projectName": "Leetcode_1ee7940f"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindNGE",
+            "request": "launch",
+            "mainClass": "FindNGE",
+            "projectName": "Leetcode_1ee7940f"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinimalHeaviestSetA",
+            "request": "launch",
+            "mainClass": "MinimalHeaviestSetA",
+            "projectName": "Leetcode_1ee7940f"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubarraySum",
+            "request": "launch",
+            "mainClass": "SubarraySum",
+            "projectName": "Leetcode_1ee7940f"
+        },
+        {
+            "type": "java",
+            "name": "Launch IsValidBST",
+            "request": "launch",
+            "mainClass": "IsValidBST",
+            "projectName": "Leetcode_1ee7940f"
+        },
+        {
+            "type": "java",
+            "name": "Launch KLargest",
+            "request": "launch",
+            "mainClass": "KLargest",
+            "projectName": "Leetcode_1ee7940f"
+        },
+        {
+            "type": "java",
+            "name": "Launch NextGreaterElement",
+            "request": "launch",
+            "mainClass": "NextGreaterElement",
+            "projectName": "Leetcode_1ee7940f"
+        },
+        {
+            "type": "java",
+            "name": "Launch IsSameTree",
+            "request": "launch",
+            "mainClass": "IsSameTree",
+            "projectName": "Leetcode_1ee7940f"
+        },
+        {
+            "type": "java",
             "name": "Launch FindAnagrams",
             "request": "launch",
             "mainClass": "FindAnagrams",
