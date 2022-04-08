@@ -82,8 +82,12 @@
         "DFS/getAllElements",
         "DFS/countNodes",
         "DFS/buildTree",
+<<<<<<< HEAD
         "BST/singleNonDuplicate",
         "sort"
+=======
+        "array/numberOfArithmeticSlices"
+>>>>>>> d8fa7da6aed7b7b8907bb69b43353e41f61eb58d
     ],
     "java.dependency.packagePresentation": "hierarchical"
 }

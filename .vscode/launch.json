@@ -6,6 +6,7 @@
     "configurations": [
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "Launch QuickSort",
             "request": "launch",
             "mainClass": "QuickSort",
@@ -122,6 +123,12 @@
             "request": "launch",
             "mainClass": "IsSameTree",
             "projectName": "Leetcode_1ee7940f"
+=======
+            "name": "Launch NumberOfArithmeticSlices",
+            "request": "launch",
+            "mainClass": "NumberOfArithmeticSlices",
+            "projectName": "leecode_3c1035b"
+>>>>>>> d8fa7da6aed7b7b8907bb69b43353e41f61eb58d
         },
         {
             "type": "java",
