@@ -35,6 +35,7 @@
         "dp/minPathSum",
         "dp/minDistance",
         "dp/jump",
+        "dp/climbStairs",
         "breadth_first",
         "array/twoPointers/subarraySum",
         "array/twoPointers/minSubArrayLen",
@@ -82,7 +83,7 @@
         "DFS/countNodes",
         "DFS/buildTree",
         "BST/singleNonDuplicate",
-        "dp/climbStairs"
+        "sort"
     ],
     "java.dependency.packagePresentation": "hierarchical"
 }
